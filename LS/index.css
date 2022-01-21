@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body.red{
+    background: red;
+}
+body.blue{
+    background: blue;
+}
+body.green{
+    background: green;
+}
+
+.div-container{
+    width: 100vw;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+    
+
+.mydiv{
+    width: 200px;
+    height: 100px;
+    margin: 20px;
+}
+
+.red{
+    background: red;
+}
+
+.blue{
+    background: blue;
+}
+
+.green{
+    background: green;
+}
